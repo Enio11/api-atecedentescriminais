@@ -25,7 +25,7 @@ Este projeto fornece uma API REST para consultar informações de antecedentes c
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/api-atecedentescriminais.git
+git clone https://github.com/Enio11/api-atecedentescriminais.git
 cd api-atecedentescriminais
 
 # Instale as dependências
@@ -47,6 +47,36 @@ A API estará disponível em `http://localhost:8000`
 - `POST /consultar` - Consultar antecedentes por CPF
 - `GET /historico` - Visualizar histórico de consultas
 
-## Licença
+## 🤝 Como Contribuir
+
+Contribuições são muito bem-vindas! Por favor, leia nosso [Guia de Contribuição](CONTRIBUTING.md) para entender:
+
+- 📝 Padrões de commits (Conventional Commits)
+- 🎨 Padrões de código (PEP 8)
+- 🔀 Processo de Pull Request
+- 🧪 Como rodar e escrever testes
+
+### Quick Start para Contribuidores
+
+```bash
+# Fork o projeto e clone
+git clone https://github.com/seu-usuario/api-atecedentescriminais.git
+
+# Crie uma branch
+git checkout -b feature/minha-feature
+
+# Faça suas alterações e commit
+git commit -m "feat: adicionar nova funcionalidade"
+
+# Push e abra um PR
+git push origin feature/minha-feature
+```
+
+Veja também:
+- [Código de Conduta](CODE_OF_CONDUCT.md)
+- [Template de Issues](.github/ISSUE_TEMPLATE/)
+- [Template de Pull Request](.github/pull_request_template.md)
+
+## 📄 Licença
 
 Este projeto é de código aberto.
