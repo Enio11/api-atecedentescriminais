@@ -1,6 +1,17 @@
+# Core
 fastapi
 uvicorn
 playwright
 sqlalchemy
-pytest
 httpx
+
+# Testing
+pytest
+pytest-cov
+pytest-asyncio
+
+# Linting & Formatting
+black
+flake8
+mypy
+isort

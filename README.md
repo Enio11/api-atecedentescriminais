@@ -1,5 +1,10 @@
 # API Antecedentes Criminais
 
+![CI Status](https://github.com/Enio11/api-atecedentescriminais/actions/workflows/ci.yml/badge.svg)
+![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)
+
 API para consulta de antecedentes criminais através do Portal da Transparência.
 
 ## Descrição
